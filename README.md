@@ -1,1 +1,1 @@
-Sample design pattern code
+Design pattern sample code
